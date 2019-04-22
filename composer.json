@@ -1,0 +1,15 @@
+{
+    "name": "nazonohito51/internal-phpdoc",
+    "authors": [
+        {
+            "name": "kawashima",
+            "email": "nazonohito51@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "InternalPhpDoc\\": "src/"
+        }
+    }
+}
